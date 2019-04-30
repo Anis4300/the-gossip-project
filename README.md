@@ -1,24 +1,22 @@
-# README
+# the Gossip Project - version FULLSTACK
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+On passe aux choses serieuses
 
-Things you may want to cover:
+## use
 
-* Ruby version
+un `git clone`
 
-* System dependencies
+un `bundle install`
 
-* Configuration
+un `rails db:create`
 
-* Database creation
+si tu veux de la data (ce qui est plutôt utile) tu peux lancer les seeds avec `rails db:seed`
 
-* Database initialization
+lance le serveur avec `rails server`
 
-* How to run the test suite
+tu peux maintenant te connecter au [SITE](http://localhost:3000/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## By
 
-* Deployment instructions
-
-* ...
+- Guillaume Silvent @gui3
+- Anis Bouhouche @Anis
